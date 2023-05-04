@@ -16,3 +16,6 @@ https://www.facebook.com/groups/SoftwareProjectManagementCourse/learning_content
 - https://drive.google.com/drive/folders/1PyCIao8Nzboh3MThlYHS7SgGkY6YVma_?usp=sharing 
 
 
+REFs:
+- https://github.com/PacktPublishing/The-Simplest-Guide-to-Project-Management-and-PMI-PMP-Certification-Exam 
+- 
