@@ -1,6 +1,13 @@
 
 # Seminar
 
+## Requirements
+- Deadline: week 9
+- pptx (30+ slides)
+- Content:  principles, process, artifacts
+- Examples
+- Demo (opt)
+
 ## 2024.04
 
 S01. PO & Scrum Master – role,   
