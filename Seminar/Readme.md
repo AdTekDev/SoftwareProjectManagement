@@ -23,4 +23,5 @@ S10. Planning Poker – process, steps
 S11. Story Points  
 S12. T-Shirt Size Estimation (Estimation units) + Dot Voting  
 
-
+## Google Drive
+- https://drive.google.com/drive/folders/1L5QHihfeiOyc1tKBrScE275K387eDrBp?usp=sharing 
