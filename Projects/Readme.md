@@ -1,5 +1,5 @@
 
-# Projects
+# Project
 
 ## Objective:
 Select a software development project topic previously studied in your coursework. As a project manager, demonstrate your expertise by applying relevant skills and methodologies.
