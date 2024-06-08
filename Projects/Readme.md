@@ -11,23 +11,32 @@ Select a software development project topic previously studied in your coursewor
 
 2. Work Breakdown Structure (WBS):  
   - Develop a comprehensive WBS to outline all the tasks and deliverables.
-
+  - Dictionary
+    
 3. Time Estimation:  
   - Estimate the time required for each task and the overall project timeline.
-
+  - PERT, Std, Expected Time
+    
 4. Work Schedule:  
   - Create a detailed work schedule to manage the project's progress.
-
+  - GANTT chart
+    
 5. Cost Assessment:
   - Evaluate the project costs, including resources, materials, and labor.
-
+  - PERT, COCOMO, FPA
+    
 6. Risk Estimation:
   - Identify potential risks and estimate their impact on the project.
-
+  - Risk matrix
+    
 7. Quality Requirements:
   - Define the quality standards and requirements for the project's deliverables.
+  - Checklist
 
-8. Project Management Plan:  
+8. Resource
+  - RACI matrix
+    
+10. Project Management Plan:  
   - Develop a comprehensive project management plan.
 
 ## Deliverables:
