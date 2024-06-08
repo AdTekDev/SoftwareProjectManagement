@@ -38,10 +38,10 @@ Select a software development project topic previously studied in your coursewor
 2. Presentation (PPTX):
   - Prepare a presentation summarizing your project management plan and key insights.
 
-3. Weekly Analysis Reports:  
+3. Weekly Analysis Reports(PM Folders - zip):  
   - Provide detailed weekly analysis reports, covering various project management knowledge areas.
 
-4. Final Project Report:  
+4. Final OLD Project Report (old document):  
 - Submit a comprehensive report documenting the entire project process and outcomes.
 
 Ensure your project management plan is meticulous, covering all aspects from the initial project description to the final report. Demonstrate your ability to effectively manage and deliver a software development project, highlighting your project management skills and methodologies.
