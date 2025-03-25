@@ -54,3 +54,7 @@ Select a software development project topic previously studied in your coursewor
 - Submit a comprehensive report documenting the entire project process and outcomes.
 
 Ensure your project management plan is meticulous, covering all aspects from the initial project description to the final report. Demonstrate your ability to effectively manage and deliver a software development project, highlighting your project management skills and methodologies.
+
+
+Deadline:  
+- Week 13th
